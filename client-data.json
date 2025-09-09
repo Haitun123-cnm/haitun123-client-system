@@ -38,7 +38,7 @@
       "gender": "Male",
       "primaryLanguage": "English ",
       "interpreter": "",
-      "fundingType": "",
+      "fundingType": "NDIS",
       "ndisNumber": "",
       "icareParticipant": "",
       "planStartDate": "",
@@ -99,5 +99,5 @@
   "todos": [
     "dfgfg <span class=\"todo-date\">(Added on: 25/3/2025)</span>"
   ],
-  "lastUpdated": "2025-09-09T16:36:02.183Z"
+  "lastUpdated": "2025-09-09T16:36:03.756Z"
 }

@@ -1,35 +1,5 @@
 {
-  "serviceClients": [
-    {
-      "firstName": "",
-      "lastName": "",
-      "dob": "",
-      "gender": "",
-      "primaryLanguage": "",
-      "interpreter": "",
-      "fundingType": "",
-      "ndisNumber": "",
-      "icareParticipant": "",
-      "planStartDate": "",
-      "planEndDate": "",
-      "primaryDisability": "",
-      "supportNeeds": "",
-      "riskAssessment": "",
-      "supportCoordinator": "",
-      "coordinatorPhone": "",
-      "coordinatorEmail": "",
-      "shortTermGoals": "",
-      "longTermGoals": "",
-      "familyContacts": [],
-      "caregivers": [],
-      "coordinators": [],
-      "documents": {},
-      "reminders": [],
-      "generalNotes": "",
-      "progressNotes": "",
-      "alerts": ""
-    }
-  ],
+  "serviceClients": [],
   "coordClients": [
     {
       "firstName": "Liu ",
@@ -66,5 +36,5 @@
   "todos": [
     "dfgfg <span class=\"todo-date\">(Added on: 25/3/2025)</span>"
   ],
-  "lastUpdated": "2025-09-09T16:02:14.206Z"
+  "lastUpdated": "2025-09-09T16:02:28.999Z"
 }
